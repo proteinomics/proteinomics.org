@@ -8,3 +8,7 @@
   background-repeat: no-repeat;
   background-size: cover;
 }
+
+.navbar-logo {
+  max-height: 42px;
+}
