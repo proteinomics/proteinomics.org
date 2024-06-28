@@ -1,0 +1,19 @@
+---
+title: "Historical Dietary Protein Compositions"
+format: dashboard
+scrolling: true
+---
+
+## Row
+
+### Column
+
+```{r}
+#| echo: false
+source("world.R")
+world_plot
+
+```
+
+### Column
+

@@ -1,0 +1,46 @@
+---
+title: "About"
+format:
+  html:
+    page-layout: article
+---
+
+proteinomics.org is the collection of data visualizations and resources describing the global protein economy. It is an entirely free, open-source tool created with the following aims:
+
+1. Facilitate access to information about protein and related topics
+2. Support more accurate and data-driven journalism, communications, and visual storytelling
+3. Help elevate baseline levels of data and statistical numeracy
+4. Foster engagement in open-source projects with potential for broad public benefit
+
+proteinomics.org is not merely a resource for researching and reporting on protein-related topics, it is also a designed to make learning data visualization and analysis easier and more accessible for everyone.
+
+### Why protein
+
+::: {.column-margin}
+
+```{r gtrends_chart}
+#| echo: false
+#| warning: false
+#| fig-column: margin
+source("about.R")
+p_chart
+```
+:::
+
+Protein is a topic of growing public interest. It is also a common theme of scientific and nutritional illiteracy. Online media and social media environments often contribute to confusion as sources of misinformation and culturally or ideologically biased reporting. proteinomics.org is a fact-checking tool that not only helps answer common questions, but also inspires users to look deeper and more critically at the issues.
+
+### How to contribute
+
+proteinomics.org is 100% open source and entirely built using free tools and software. Anyone with basic knowledge of R and git can contribute.
+
+View the [readme on Github](https://github.com/proteinomics/proteinomics.org) to download the entire project or individual parts for local editing.
+
+### Who
+
+See the [credits page](/credits) for full details on data sources, software, tools, and project contributors.
+
+proteinomics.org is currently being developed by [Protein Report](https://www.proteinreport.org).
+
+### License
+
+The content of this project itself is licensed under the [Creative Commons Attribution 3.0 Unported license](https://creativecommons.org/licenses/by/3.0), and the underlying source code used to format and display that content is licensed under the [MIT license](https://github.com/github/choosealicense.com/blob/gh-pages/LICENSE.md).

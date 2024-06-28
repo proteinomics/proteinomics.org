@@ -1,0 +1,16 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "proteinomics",
+    "section": "",
+    "text": "proteinomics\nis the encyclopedia of data visualizations describing the global protein economy. Explore topics below or learn more about the project."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "proteinomics.org is the collection of data visualizations and resources describing the global protein economy. It is an entirely free, open-source tool created with the following aims:\n\nFacilitate access to information about protein and related topics\nSupport more accurate and data-driven journalism, communications, and visual storytelling\nHelp elevate baseline levels of data and statistical numeracy\nFoster engagement in open-source projects with potential for broad public benefit\n\nproteinomics.org is not merely a resource for researching and reporting on protein-related topics, it is also a designed to make learning data visualization and analysis easier and more accessible for everyone.\n\nWhy protein\n\n\n\n\n\n\n\n\n\n\n\nProtein is a topic of growing public interest. It is also a common theme of scientific and nutritional illiteracy. Online media and social media environments often contribute to confusion as sources of misinformation and culturally or ideologically biased reporting. proteinomics.org is a fact-checking tool that not only helps answer common questions, but also inspires users to look deeper and more critically at the issues.\n\n\nHow to contribute\nproteinomics.org is 100% open source and entirely built using free tools and software. Anyone with basic knowledge of R and git can contribute.\nView the readme on Github to download the entire project or individual parts for local editing.\n\n\nWho\nSee the credits page for full details on data sources, software, tools, and project contributors.\nproteinomics.org is currently being developed by Protein Report.\n\n\nLicense\nThe content of this project itself is licensed under the Creative Commons Attribution 3.0 Unported license, and the underlying source code used to format and display that content is licensed under the MIT license."
+  }
+]

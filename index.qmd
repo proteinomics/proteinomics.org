@@ -1,0 +1,30 @@
+---
+format: 
+  html:
+    page-layout: full
+toc: false
+---
+
+::: {.bg-hero}
+
+::: {.display-3}
+
+**proteinomics**
+
+is the encyclopedia of data visualizations describing the global protein economy. Explore topics below or learn more [about the project](about.qmd). 
+
+:::
+
+:::
+
+```{r}
+#| echo: false
+#| warning: false
+source("art.R")
+ggplotly(test) %>%
+  layout(
+    showlegend=F
+  ) %>%
+  config(displayModeBar = FALSE)
+
+```
