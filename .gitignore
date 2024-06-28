@@ -6,4 +6,4 @@
 /.quarto/
 
 data_raw/faostat/*
-!data_raw/faostat/
+!data_raw/faostat/.gitkeep
